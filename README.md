@@ -148,7 +148,15 @@ mining-predictive-maintenance/
 │   ├── mining_predictive_maintenance.db
 │   ├── dim_site.csv
 │   ├── dim_equipment.csv
-│   └── fact_sensor_readings.csv
+│   ├── dim_date.csv
+│   ├── fact_failures.csv
+│   ├── fact_maintenance.csv
+│   ├── fact_sensor_readings.csv
+│   ├── ml_predictions.csv
+│   └── latest_risk_scores.csv
+│
+├── notebooks/                     # Jupyter/Colab notebooks
+│   └── predictive_maintenance_pipeline.ipynb
 │
 ├── powerbi/                       # Power BI dashboard file
 │   └── Mining_Predictive_Maintenance.pbix
@@ -156,10 +164,13 @@ mining-predictive-maintenance/
 ├── screenshots/                   # Dashboard previews
 │   ├── dashboard_page1_fleet_overview.png
 │   ├── dashboard_page2_equipment_deepdive.png
+│   ├── data_model_star_schema.png
 │   ├── feature_importance.png
 │   └── roc_curve.png
 │
-└── README.md
+├── .gitignore                     # Python gitignore
+├── LICENSE                        # MIT License
+└── README.md                      # Project documentation
 ```
 
 ---
