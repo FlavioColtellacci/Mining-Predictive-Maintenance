@@ -1,0 +1,5 @@
+site_id,site_name,region,latitude,longitude,roster,fleet_size,operational_since,commodity
+PB01,Port Hedland Operations,Pilbara,-20.3114,118.6047,2:1,15,2015-03-01,Iron Ore
+NW02,Newman Mine,Pilbara,-23.3583,119.7333,8:6,18,2012-06-15,Iron Ore
+KL03,Kalgoorlie Operations,Goldfields,-30.7489,121.4658,2:1,10,2018-09-01,Gold
+CP04,Cape Preston,Pilbara,-21.5667,114.9667,8:6,7,2020-01-10,Iron Ore
