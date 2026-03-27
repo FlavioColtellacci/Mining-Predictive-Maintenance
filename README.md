@@ -203,7 +203,7 @@ This project was built to demonstrate technical skills for **Business Intelligen
 
 ## Contact
 
-**Flavio Collellacci**
+**Flavio Coltellacci**
 - LinkedIn: [linkedin.com/in/flaviocollellacci](https://linkedin.com/in/flaviocollellacci)
 - GitHub: [@FlavioCollellacci](https://github.com/FlavioCollellacci)
 
